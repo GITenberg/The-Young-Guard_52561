@@ -1,0 +1,28 @@
+_repo: The-Young-Guard_52561
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hornung, E. W. (Ernest William)
+    aliases:
+    - Hornung, Ernest William
+    - Hornung, E.W.
+    birthdate: 1866
+    deathdate: 1921
+    gutenberg_agent_id: '364'
+    url: http://www.gutenberg.org/2009/agents/364
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_William_Hornung
+description: ''
+gutenberg_issued: '2016-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52561'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- Poetry'
+- GITenberg
+title: The Young Guard
+url: http://www.gutenberg.org/ebooks/52561
